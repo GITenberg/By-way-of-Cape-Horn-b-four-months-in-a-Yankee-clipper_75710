@@ -1,5 +1,8 @@
 _repo: By-way-of-Cape-Horn-b-four-months-in-a-Yankee-clipper_75710
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75710-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Paul Eve
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '58038'
     url: http://www.gutenberg.org/2009/agents/58038
 description: Illustrated from photographs taken by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75710#By-way-of-Cape-Horn-b-four-months-in-a-Yankee-clipper
 edition_note: Fourth edition
 gutenberg_issued: '2025-03-25'
 gutenberg_type: Text
